@@ -7,7 +7,7 @@ Laboratoryjne środowisko do ćwiczenia podstaw administracji Active Directory o
 ```mermaid
 flowchart LR
     subgraph D["Domena lab.local"]
-        DC["Windows Server — AD DS + DNS<br/>WIN-072KI3GAU7C<br/>Ethernet: 10.0.40.10<br/>Ethernet 2: 10.0.40.22"]
+        DC["Windows Server — AD DS + DNS<br/>WIN-DC01<br/>Ethernet: 10.0.40.10<br/>Ethernet 2: 10.0.40.22"]
         L["Klient LENOVO<br/>10.0.40.21"]
         E["Klient DELL<br/>10.0.40.20"]
         L -->|"DNS domenowy / wyszukiwanie kontrolera"| DC
