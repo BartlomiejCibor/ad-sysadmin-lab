@@ -8,7 +8,7 @@ zgłoszenia — nie przedstawiam ich jako doświadczenia komercyjnego, zbieżno�
 
 | Zgłoszenie | Obszar | Status |
 |---|---|---|
-| [01 — Problem z logowaniem do konta domenowego](cases/01-ad-unlock/README.md) | Active Directory, GLPI | W trakcie weryfikacji |
+| [01 — Problem z logowaniem do konta domenowego](cases/01-ad-unlock/README.md) | Active Directory, GLPI | Rozwiązane |
 
 ## Jak dokumentuję przypadki
 
