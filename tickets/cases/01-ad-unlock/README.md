@@ -25,3 +25,4 @@ GLPI, Active Directory Users and Computers
 ![Test logowania](images/login-pass.png)
 
 ![Stan konta w AD](images/unlock-acc.png)
+
