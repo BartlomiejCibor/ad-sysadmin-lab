@@ -1,6 +1,10 @@
-# Active Directory — lab pod stanowisko Helpdesk / IT Support
+# Active Directory — lab pod stanowisko Helpdesk / IT Support / Service Desk
 
-Laboratoryjne środowisko do ćwiczenia podstaw administracji Active Directory oraz diagnostyki komputerów i kont domenowych. To **własny lab**, nie opis wdrożenia produkcyjnego ani zawodowej obsługi zgłoszeń. Dokumentacja rozróżnia to, co zostało zaobserwowane, od rzeczy wymagających dalszej weryfikacji.
+Laboratoryjne środowisko do ćwiczenia podstaw administracji Active Directory oraz diagnostyki komputerów i kont domenowych. W domowym labie ćwiczę też instalowanie i aktualizowanie oprogramowania, dodawanie użytkowników i grup, pracę z zasadami GPO, tworzenie i przywracanie kopii zapasowych oraz prowadzenie dokumentacji.
+
+Opisane zgłoszenia są symulowane. Każde ma osobny plik Markdown w katalogu `tickets/cases/`.
+
+[Udokumentowane zgłoszenia z homelabu](tickets/cases/README.md)
 
 ## Schemat środowiska
 

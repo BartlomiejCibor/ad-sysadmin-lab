@@ -13,7 +13,7 @@ Przyczyną problemu jest zła konfiguracja DNS na komputerze użytkowniczki, jak
 ![Konfiguracja sieci przed zmianą](images/internet-settings.png)
 
 ## Działanie
-Po uzyskaniu zgody połączyłem się przez RDP z komputerem Lenovo.lab.local a następnie zmieniłem w ustawieniach adres serwera DNS na 10.0.40.10. Następnie sprawdziłem działanie stron internetowych.
+Po uzyskaniu zgody połączyłem się przez RDP z komputerem Lenovo.lab.local, a następnie zmieniłem w ustawieniach adres serwera DNS na 10.0.40.10. Następnie sprawdziłem działanie stron internetowych.
 
 
 ## Weryfikacja
