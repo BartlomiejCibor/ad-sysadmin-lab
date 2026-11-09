@@ -5,7 +5,7 @@ Użytkownik zgłosił, że nie może się zalogować do swojego konta domenowego
 Użytkownik pamięta hasło, ale wpisywał w pośpiechu, dlatego prosi, aby nie resetować hasła.
 
 ## Diagnoza
-Sprawdziłem w Active Directory w labie, że użytkownik jest zablokowany. W homelabie odtworzyłem sytuację i potwierdziłem, że konto jest zablokowane po kilku nieudanych próbach logowania.
+Sprawdziłem w Active Directory labu, że użytkownik jest zablokowany. W homelabie odtworzyłem sytuację i potwierdziłem, że konto jest zablokowane po kilku nieudanych próbach logowania.
 
 ## Przyczyna
 Zbyt wiele nieudanych prób logowania spowodowało zablokowanie konta użytkownika "Jurek" (Zasady GPO blokują konto po 5 nieudanych próbach logowania w ciągu 10 minut).
@@ -14,7 +14,7 @@ Zbyt wiele nieudanych prób logowania spowodowało zablokowanie konta użytkowni
 Odblokowałem konto użytkownika "Jurek" w Active Directory.
 
 ## Weryfikacja
-Po odblokowaniu przetestowałem logowanie na koncie Jurka które zakończyło się powodzeniem.
+Po odblokowaniu przetestowałem logowanie na koncie Jurka, które zakończyło się powodzeniem.
 
 ## Narzędzia
 GLPI, Active Directory Users and Computers

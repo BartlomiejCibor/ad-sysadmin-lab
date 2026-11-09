@@ -1,7 +1,7 @@
 # Brak dostępu do stron internetowych  — symulacja w homelabie **Rozwiązane**
 
 ## Zgłoszenie
-Użytkowniczka Agnieszka zgłosiła problem z wyświetlaniem stron internetowych. Użytkowniczka  używa przeglądarki Edge, kolega z pracy zasugerował sprawdzenie w wierszu poleceń komendy pingującej widocznej na zdjęciu poniżej.
+Użytkowniczka Agnieszka zgłosiła problem z wyświetlaniem stron internetowych. Użytkowniczka używa przeglądarki Edge, kolega z pracy zasugerował sprawdzenie w wierszu poleceń komendy pingującej widocznej na zdjęciu poniżej.
 
 ## Diagnoza
 Na zrzutach ekranu widać, że `ping 1.1.1.1` zwracał odpowiedzi, natomiast `ping google.com` nie mógł odnaleźć hosta. Agnieszka potwierdziła, że na innych komputerach strony internetowe działały poprawnie. Poprosiłem ją o przesłanie wyniku `ipconfig /all`. Po sprawdzeniu konfiguracji sieciowej Lenovo zauważyłem, że ustawiony adres serwera DNS różnił się od właściwego adresu serwera obsługującego domenę `lab.local`.

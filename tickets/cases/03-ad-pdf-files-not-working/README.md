@@ -6,7 +6,7 @@ Użytkownik Marcin zgłosił problem z wyświetlaniem dokumentów z rozszerzenie
 ![Zła aplikacja do otwierania plików pdf](images/pdf-file.png)
 
 ## Diagnoza
-Po uzyskaniu nazwy komputera i zgody od użytkownika połączyłem się przez Anydesk z jego aktywną sesją. Sprawdziłem czy Adobe Acrobat Reader jest zainstalowany na komputerze. Następnie w ustawieniach aplikacji domyślnych sprawdziłem rozszerzenie .pdf — przypisaną do niego aplikacją był Notatnik.
+Po uzyskaniu nazwy komputera i zgody od użytkownika połączyłem się przez AnyDesk z jego aktywną sesją. Sprawdziłem czy Adobe Acrobat Reader jest zainstalowany na komputerze. Następnie w ustawieniach aplikacji domyślnych sprawdziłem rozszerzenie .pdf — przypisaną do niego aplikacją był Notatnik.
 
 ![sprawdzenie zainstalowanej aplikacji Adobe](images/pdf-confirmation.png)
 
@@ -26,4 +26,4 @@ Po zmianie otworzyłem dwa testowe pliki, oba uruchomiły się w Adobe Acrobat R
 ![Naprawione skojarzenie rozszerzeń .pdf](images/resolve-pdf.png)
 
 ## Użyte narzędzia
-GLPI, Anydesk, Adobe Acrobat Reader.
+GLPI, AnyDesk, Adobe Acrobat Reader.
