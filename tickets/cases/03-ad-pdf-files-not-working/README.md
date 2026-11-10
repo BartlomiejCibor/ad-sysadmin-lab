@@ -21,7 +21,7 @@ Po uzyskaniu nazwy komputera i zgody od użytkownika połączyłem się przez An
  ![Zmieniona aplikacja domyślna](images/fixed-file-type.png)
 
 ## Weryfikacja
-Po zmianie otworzyłem dwa testowe pliki, oba uruchomiły się w Adobe Acrobat Reader. Poprosiłem klienta Marcina o sprawdzenie na swoim koncie, czy pliki pdf otwierają się poprawnie. Marcin potwierdził, że problem został rozwiązany.
+Otworzyłem dwa pliki testowe; oba wyświetliły się w Adobe Acrobat Reader. Poprosiłem klienta Marcina o sprawdzenie na swoim koncie, czy pliki pdf otwierają się poprawnie. Marcin potwierdził, że problem został rozwiązany.
 
 ![Naprawione skojarzenie rozszerzeń .pdf](images/resolve-pdf.png)
 
